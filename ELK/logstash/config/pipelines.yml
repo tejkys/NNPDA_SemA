@@ -1,0 +1,2 @@
+- pipeline.id: logstash-main-pipe
+  path.config: "/usr/share/logstash/pipeline/logstash.conf"
